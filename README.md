@@ -1,5 +1,5 @@
 # creaTive Deathmatch client source code by barney
-Please note that most of the code in this repository is NOT original and is developed mostly by https://github.com/YaLTeR. I have included the original OpenAG readme. 
+Please note that most of the code in this repository is NOT original and is developed mostly by https://github.com/YaLTeR. I have included the original OpenAG readme. This repo contains all source code necasarry for editing and building the creaTive Deathmatch client DLL, required for the creaTive Deathmatch Player.
 I will add more detailed notes on building soon.
 
 # Cloning

@@ -1,4 +1,7 @@
-﻿OpenAG
+# creaTive Deathmatch by barney
+Please note that most of the code in this repository is NOT original and is developed mostly by https://github.com/YaLTeR. I have included the original OpenAG readme.
+
+# OpenAG
 ======================
 [![Build Status](https://travis-ci.org/YaLTeR/OpenAG.svg?branch=master)](https://travis-ci.org/YaLTeR/OpenAG)
 [![Build Status](https://ci.appveyor.com/api/projects/status/o758yugwuavrt9qi?svg=true)](https://ci.appveyor.com/project/YaLTeR/openag)

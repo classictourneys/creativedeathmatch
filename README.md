@@ -1,5 +1,12 @@
-# creaTive Deathmatch by barney
-Please note that most of the code in this repository is NOT original and is developed mostly by https://github.com/YaLTeR. I have included the original OpenAG readme.
+# creaTive Deathmatch client source code by barney
+Please note that most of the code in this repository is NOT original and is developed mostly by https://github.com/YaLTeR. I have included the original OpenAG readme. 
+I will add more detailed notes on building soon.
+
+# Cloning
+It is NOT reccomended that you clone this repo from this website if you plan on editing the code. Use Git Bash and cd to where you want to clone the repo, and then type
+ "git clone http://www.github.com/classictourneys/creativedeathmatch" without the quotation marks.
+ 
+ # YES, I AM AWARE THE ACTUAL SOURCE CODE ISN'T HERE YET. I WILL ADD IT SOON.
 
 # OpenAG
 ======================

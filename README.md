@@ -6,7 +6,7 @@ I will add more detailed notes on building soon.
 It is NOT reccomended that you clone this repo from this website if you plan on editing the code. Use Git Bash and cd to where you want to clone the repo, and then type
  "git clone http://www.github.com/classictourneys/creativedeathmatch" without the quotation marks.
  
- # YES, I AM AWARE THE ACTUAL SOURCE CODE ISN'T HERE YET. I WILL ADD IT SOON.
+ # WARNING: THE SOURCE CODE ON HERE ISN'T COMPLETED YET. I WILL COMPLETE IT OVER THE WEEKEND.
 
 # OpenAG
 ======================

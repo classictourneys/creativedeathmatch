@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\heatwave goldsrc\creative deathmatch client\OpenAG\external\discord-rpc\src\discord-rpc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\heatwave goldsrc\creative deathmatch client\OpenAG\external\discord-rpc\src\rpc_connection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\heatwave goldsrc\creative deathmatch client\OpenAG\external\discord-rpc\src\serialization.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\heatwave goldsrc\creative deathmatch client\OpenAG\external\discord-rpc\src\connection_win.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\heatwave goldsrc\creative deathmatch client\OpenAG\external\discord-rpc\src\discord_register_win.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F:\heatwave goldsrc\creative deathmatch client\OpenAG\external\discord-rpc\include\discord-rpc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\heatwave goldsrc\creative deathmatch client\OpenAG\external\discord-rpc\src\discord_register.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\heatwave goldsrc\creative deathmatch client\OpenAG\external\discord-rpc\src\rpc_connection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\heatwave goldsrc\creative deathmatch client\OpenAG\external\discord-rpc\src\serialization.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\heatwave goldsrc\creative deathmatch client\OpenAG\external\discord-rpc\src\connection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\heatwave goldsrc\creative deathmatch client\OpenAG\external\discord-rpc\src\backoff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\heatwave goldsrc\creative deathmatch client\OpenAG\external\discord-rpc\src\msg_queue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\heatwave goldsrc\creative deathmatch client\OpenAG\external\discord-rpc\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{08A1EBE0-F7F6-37DA-BCFD-354936D3F75F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B52BDE9A-D015-38D4-9B66-A66831C851B2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

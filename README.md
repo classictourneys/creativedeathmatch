@@ -6,6 +6,9 @@ I will add more detailed notes on building soon.
 It is NOT reccomended that you clone this repo from this website if you plan on editing the code. Use Git Bash and cd to where you want to clone the repo, and then type
  "git clone http://www.github.com/classictourneys/creativedeathmatch" without the quotation marks.
  
+ ## Navigating the repo
+ The root of this repo is the original OpenAG repo. The modified creaTive Deathmatch version (which includes the VS2017 solutions) is in the build folder.
+ 
  # WARNING: THE SOURCE CODE ON HERE ISN'T COMPLETED YET. I WILL COMPLETE IT OVER THE WEEKEND.
 
 # OpenAG
